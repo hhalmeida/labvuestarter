@@ -1,4 +1,4 @@
-# webpack-simple
+# Template VUEJS  
 
 This is a fork of webpack-simple template, with a few additions of my own.
 
